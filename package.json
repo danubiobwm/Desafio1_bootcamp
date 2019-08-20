@@ -1,0 +1,17 @@
+{
+  "name": "Desafio1_bootcamp",
+  "version": "1.0.0",
+  "description": "Desafio 01",
+  "main": "index.js",
+  "author": "Danubio",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
